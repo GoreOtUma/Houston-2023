@@ -1,0 +1,35 @@
+body {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #00538A;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.5em;
+  font-family: sans-serif;
+}
+h1 {
+  font-size: 32px;
+}
+table, td {
+  border: 1px solid black;
+}
+figcaption {
+  font-style: oblique;
+  text-align: center;
+}
+figure {
+  float: right;
+  margin: 4px 0px 4px 20px;
+  clear: right;
+}    
+figure>img {
+  width: 100%;
+}
+div {
+  background-color: #AFDAFC;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+  padding: 30px;
+}
